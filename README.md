@@ -1,0 +1,2 @@
+# SMB1AIMODE
+1.0 
